@@ -1,0 +1,10 @@
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.Form1.resources
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.Properties.Resources.resources
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\WinForm\Code1\bin\Debug\Code1.exe.config
+C:\Users\bckdu\Downloads\WinForm\Code1\bin\Debug\Code1.exe
+C:\Users\bckdu\Downloads\WinForm\Code1\bin\Debug\Code1.pdb
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.exe
+C:\Users\bckdu\Downloads\WinForm\Code1\obj\Debug\Code1.pdb

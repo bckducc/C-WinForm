@@ -1,0 +1,10 @@
+C:\Users\bckdu\Downloads\Bài tập C#\Info\bin\Debug\Info.exe.config
+C:\Users\bckdu\Downloads\Bài tập C#\Info\bin\Debug\Info.exe
+C:\Users\bckdu\Downloads\Bài tập C#\Info\bin\Debug\Info.pdb
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.Form1.resources
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.Properties.Resources.resources
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.exe
+C:\Users\bckdu\Downloads\Bài tập C#\Info\obj\Debug\Info.pdb

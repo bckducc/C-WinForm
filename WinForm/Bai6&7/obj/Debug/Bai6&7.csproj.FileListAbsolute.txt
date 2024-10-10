@@ -1,0 +1,10 @@
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\bin\Debug\Bai6&7.exe.config
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\bin\Debug\Bai6&7.exe
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\bin\Debug\Bai6&7.pdb
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6&7.csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6_7.Form1.resources
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6_7.Properties.Resources.resources
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6&7.csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6&7.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6&7.exe
+C:\Users\bckdu\Downloads\WinForm\Bai6&7\obj\Debug\Bai6&7.pdb

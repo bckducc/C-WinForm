@@ -1,0 +1,19 @@
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\bin\Debug\QL_Sach.exe
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\bin\Debug\QL_Sach.pdb
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\obj\x86\Debug\QL_Sach.FQLSach.resources
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\obj\x86\Debug\QL_Sach.Properties.Resources.resources
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\obj\x86\Debug\QL_Sach.csproj.GenerateResource.Cache
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\obj\x86\Debug\QL_Sach.exe
+C:\Users\lyanhtuan\AppData\Local\Temporary Projects\QL_Sach\obj\x86\Debug\QL_Sach.pdb
+C:\Users\lyanhtuan\documents\visual studio 2010\Projects\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.exe
+C:\Users\lyanhtuan\documents\visual studio 2010\Projects\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.pdb
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe.config
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\bin\Debug\QL_Sach.pdb
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.FQLSach.resources
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.Properties.Resources.resources
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.exe
+C:\Users\bckdu\Downloads\QL_Sach\QL_Sach\obj\x86\Debug\QL_Sach.pdb

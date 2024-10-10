@@ -1,0 +1,14 @@
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\bin\Debug\net8.0\Stu C#.exe
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\bin\Debug\net8.0\Stu C#.deps.json
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\bin\Debug\net8.0\Stu C#.runtimeconfig.json
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\bin\Debug\net8.0\Stu C#.dll
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\bin\Debug\net8.0\Stu C#.pdb
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.AssemblyInfoInputs.cache
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.AssemblyInfo.cs
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.dll
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\refint\Stu C#.dll
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.pdb
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\Stu C#.genruntimeconfig.cache
+C:\Users\bckdu\Downloads\C#-Winform\C#-Winform\obj\Debug\net8.0\ref\Stu C#.dll

@@ -1,0 +1,10 @@
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\bin\Debug\SQL.C#(1).exe.config
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\bin\Debug\SQL.C#(1).exe
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\bin\Debug\SQL.C#(1).pdb
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C#(1).csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C__1_.Form1.resources
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C__1_.Properties.Resources.resources
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C#(1).csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C#(1).csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C#(1).exe
+C:\Users\bckdu\Downloads\SQL-C#\SQL.C#(1)\obj\Debug\SQL.C#(1).pdb

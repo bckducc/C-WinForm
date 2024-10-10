@@ -1,0 +1,13 @@
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\bin\Debug\Danh sách các tỉnh.exe.config
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\bin\Debug\Danh sách các tỉnh.exe
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\bin\Debug\Danh sách các tỉnh.pdb
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.csproj.AssemblyReference.cache
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh_sách_các_tỉnh.Form1.resources
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh_sách_các_tỉnh.Properties.Resources.resources
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.csproj.GenerateResource.cache
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.exe
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.pdb
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bckdu\Downloads\ConCac\Danh sách các tỉnh\obj\Debug\Danh sách các tỉnh.csproj.CopyComplete

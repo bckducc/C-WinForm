@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96E649-A7F2-4E22-821C-EBB00EA50F33}|Bai4\\Bai4.csproj|c:\\users\\bckducc\\documents\\code\\vs-c#-winform\\bai_tap\\bai4\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96E649-A7F2-4E22-821C-EBB00EA50F33}|Bai4\\Bai4.csproj|solutionrelative:bai4\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863E7A83-CAE1-448A-B739-C8F7674E12D9}|Bai2\\Bai2.csproj|c:\\users\\bckducc\\documents\\code\\vs-c#-winform\\bai_tap\\bai2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863E7A83-CAE1-448A-B739-C8F7674E12D9}|Bai2\\Bai2.csproj|solutionrelative:bai2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD92C7-0B20-4E66-8221-3B9F356E1A76}|BT_C#\\Bai1.csproj|c:\\users\\bckducc\\documents\\code\\vs-c#-winform\\bai_tap\\bt_c#\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD92C7-0B20-4E66-8221-3B9F356E1A76}|BT_C#\\Bai1.csproj|solutionrelative:bt_c#\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\Bai4\\Bai4.cs",
+              "RelativeDocumentMoniker": "Bai4\\Bai4.cs",
+              "ToolTip": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\Bai4\\Bai4.cs",
+              "RelativeToolTip": "Bai4\\Bai4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:24:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\Bai2\\Bai2.cs",
+              "RelativeDocumentMoniker": "Bai2\\Bai2.cs",
+              "ToolTip": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\Bai2\\Bai2.cs",
+              "RelativeToolTip": "Bai2\\Bai2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:24:23.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\BT_C#\\Bai1.cs",
+              "RelativeDocumentMoniker": "BT_C#\\Bai1.cs",
+              "ToolTip": "C:\\Users\\BCKDUCC\\Documents\\Code\\VS-C#-Winform\\BAI_TAP\\BT_C#\\Bai1.cs",
+              "RelativeToolTip": "BT_C#\\Bai1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:24:23.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

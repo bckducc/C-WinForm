@@ -1,0 +1,14 @@
+C:\Users\bckdu\Downloads\C#-Winform\PS\bin\Debug\net8.0\PS.exe
+C:\Users\bckdu\Downloads\C#-Winform\PS\bin\Debug\net8.0\PS.deps.json
+C:\Users\bckdu\Downloads\C#-Winform\PS\bin\Debug\net8.0\PS.runtimeconfig.json
+C:\Users\bckdu\Downloads\C#-Winform\PS\bin\Debug\net8.0\PS.dll
+C:\Users\bckdu\Downloads\C#-Winform\PS\bin\Debug\net8.0\PS.pdb
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.AssemblyInfoInputs.cache
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.AssemblyInfo.cs
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.csproj.CoreCompileInputs.cache
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.dll
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\refint\PS.dll
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.pdb
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\PS.genruntimeconfig.cache
+C:\Users\bckdu\Downloads\C#-Winform\PS\obj\Debug\net8.0\ref\PS.dll
